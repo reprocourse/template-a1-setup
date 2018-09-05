@@ -14,7 +14,10 @@ The purpose of this assignment is to setup student's computer such that they can
 ## Instructions
 
 ### Step 0: Clone this repository
-The classroom link for this class can be found at: [https://classroom.github.com/classrooms/42415240-reprocourse](https://classroom.github.com/classrooms/42415240-reprocourse). You should bookmark this page, as it is where all assignments will be made available. To clone this repository you need to click the assignment link and sign into Github. If you don't have an account on Github yet, create one! We'll explain in more detail what this means soon, for now just accept that it is a tool worth using, and we'll teach you how :wink:.
+The classroom link for this class can be found at: [https://classroom.github.com/classrooms/42415240-reprocourse](https://classroom.github.com/classrooms/42415240-reprocourse). BUT, this link seems to not work for users? Maybe just administrators. The assignment link, however, is [https://classroom.github.com/a/lMFUaKlm](https://classroom.github.com/a/lMFUaKlm).
+
+
+You should bookmark this page, as it is where all assignments will be made available. To clone this repository you need to click the assignment link and sign into Github. If you don't have an account on Github yet, create one! We'll explain in more detail what this means soon, for now just accept that it is a tool worth using, and we'll teach you how :wink:.
 
 ### Step 1: Setup a virtual machine
 The purpose of this step is to ensure we have access to an environment where we can run a "terminal." A terminal, if you're unfamiliar, is simply a console that allows you to enter commands that are interpretted by your computer in a specific way.
